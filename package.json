@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1",
+    "express": "^4",
+    "jade": "^1",
+    "mongoose": "^4.4.9",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
